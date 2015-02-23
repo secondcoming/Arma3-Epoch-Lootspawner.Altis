@@ -1,9 +1,7 @@
 # Arma3-Epoch-Lootspawner
-Updated Na_Palm Arma 3 Loot spawner script, modified to work on Arma 3 Epoch Chernarus
+Updated Na_Palm Arma 3 Loot spawner script, modified to work on Arma 3 Epoch Altis
 http://forums.bistudio.com/showthread.php?165234-Lootspawner-configurable-building-loot-system
 
-This version includes the additional buildings for Chernarus plus additional buildings added here:
-http://epochmod.com/forum/index.php?/topic/29528-wip-building-custom-bases/
 
 I have modified the loot so that:
 
@@ -22,4 +20,4 @@ Offical spawn items (items that you have to search) still spawn everywhere with 
 
 Come and try it out on our server:
 
-[UK] Yorkshire Epoch Chernarus
+[UK] Yorkshire Epoch
